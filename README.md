@@ -1,14 +1,18 @@
-#Date created
+#####Date created
+
 6-8-2020
 
-#Project Title
+#####Project Title
+
 project 3
 
-#Description
+####Description
+
 git commands
 
-#Files used
+#####Files used
+
 git
 
-#Credits
+####Credits
 no thanks
