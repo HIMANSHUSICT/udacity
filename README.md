@@ -1,18 +1,16 @@
-#####Date created
+### Date created
+02/14/2019
 
-6-8-2020
+### Project Title
+Udacity Bike-Share Project
 
-#####Project Title
+### Description
+Run statistics on multiple data pools related to bicycle sharing
 
-project 3
+### Files used
+new_york_city.csv
+chicago.csv
+washington.csv
 
-####Description
-
-git commands
-
-#####Files used
-
-git
-
-####Credits
-no thanks
+### Credits
+Thank you to Udacity for creating the challenging project!
